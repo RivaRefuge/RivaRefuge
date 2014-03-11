@@ -1,0 +1,7 @@
+wp-config.php
+.ssh/
+.zshrc
+.zcompdump
+.zsh_history
+.viminfo
+
