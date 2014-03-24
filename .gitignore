@@ -4,4 +4,5 @@ wp-config.php
 .zcompdump
 .zsh_history
 .viminfo
+.gitconfig
 
