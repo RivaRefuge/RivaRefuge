@@ -13,8 +13,10 @@
 		if ( ! empty ( $description ) ) :
 	?>
 	<h2 class="site-description"><?php echo esc_html( $description ); ?></h2>
+	<img src="http://rivarefuge.org/wp-content/uploads/2014/03/logo-162.jpg" alt="Riva Refuge logo" />
+	<br />
+	<h2><a href="https://www.facebook.com/pages/Riva-Refuge-Inc/177593545669926">Facebook</a></h2>
 	<?php endif; ?>
-
 	<?php if ( has_nav_menu( 'secondary' ) ) : ?>
 	<nav role="navigation" class="navigation site-navigation secondary-navigation">
 		<?php wp_nav_menu( array( 'theme_location' => 'secondary' ) ); ?>
