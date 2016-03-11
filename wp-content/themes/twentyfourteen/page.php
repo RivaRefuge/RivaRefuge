@@ -12,6 +12,7 @@
  */
 
 get_header(); ?>
+<?php remove_filter ('the_content', 'wpautop'); ?>
 
 <div id="main-content" class="main-content">
 

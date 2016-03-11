@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NON PROFIT\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-14 10:32+0200\n"
+"PO-Revision-Date: 2015-05-14 10:36+0200\n"
+"Last-Translator: BestWebSoft <info@bestwebsoft.com>\n"
+"Language-Team: bestwebsoft.com <wp_theme@bestwebsoft.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_nx:1,2;_n:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:13
+msgid "Not Found"
+msgstr "Ничего не найдено"
+
+# The page you are looking for is not found. Maybe try a search?
+#: ../404.php:16 ../archive.php:69 ../category.php:69 ../index.php:79
+#: ../page.php:47 ../search.php:68 ../tag.php:71
+msgid "The page you are looking for is not found. Maybe try a search?"
+msgstr "Запрашиваемая страница не найдена. Попробуйте воспользоваться поиском."
+
+#: ../archive.php:23 ../category.php:23 ../image.php:25 ../index.php:29
+#: ../search.php:22 ../single.php:21 ../tag.php:25
+msgid "Posted on"
+msgstr "Опубликовано"
+
+#: ../archive.php:35 ../category.php:35 ../image.php:28 ../index.php:40
+#: ../search.php:34 ../single.php:33 ../tag.php:37
+msgid "in"
+msgstr "в"
+
+#: ../archive.php:37 ../category.php:37 ../functions.php:381
+#: ../functions.php:388 ../image.php:29 ../index.php:42 ../page.php:15
+#: ../search.php:36 ../single.php:35 ../tag.php:39
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../archive.php:66 ../category.php:66 ../index.php:76 ../search.php:65
+#: ../tag.php:68
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: ../comments.php:20
+#, php-format
+msgid "One thought on %2$s"
+msgid_plural "%1$s thoughts on %2$s"
+msgstr[0] "%1$s комментарий к %2$s"
+msgstr[1] "%1$s комментария к %2$s"
+msgstr[2] "%1$s комментариев к %2$s"
+
+#: ../footer.php:7
+#, php-format
+msgid "Powered by %1$s and %2$s"
+msgstr "Создано  %1$s и %2$s"
+
+#: ../functions.php:35
+msgid "Header Menu"
+msgstr "Меню в хедере"
+
+#: ../functions.php:117
+msgid "Right Sidebar"
+msgstr "Правый сайдбар"
+
+#: ../functions.php:130
+msgid "Add to slider"
+msgstr "Добавить в слайдер"
+
+#: ../functions.php:140
+msgid "To add this"
+msgstr "Чтобы добавить"
+
+#: ../functions.php:140
+msgid "into the slider, mark it"
+msgstr "в слайдер, поставьте галочку"
+
+#: ../functions.php:209
+msgid "Choose file"
+msgstr "Выберите файл"
+
+#: ../functions.php:210
+msgid "File is not selected"
+msgstr "Файл не выбран"
+
+#: ../functions.php:231
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: ../functions.php:241 ../functions.php:308
+msgid "Home"
+msgstr "Главная"
+
+#: ../functions.php:296
+msgid "Author archives"
+msgstr "Архив автора"
+
+#: ../functions.php:304 ../functions.php:344
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: ../functions.php:320
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Архив категорий:  %s"
+
+#: ../functions.php:323
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Архив тегов: %s"
+
+#: ../functions.php:326
+msgid "Search Results for:"
+msgstr "Результаты поиска по запросу:"
+
+#: ../functions.php:330
+#, php-format
+msgid "All posts by %s"
+msgstr "Все записи %s"
+
+#: ../functions.php:334
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Архив за день:  %s"
+
+#: ../functions.php:336
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Архив за  месяц:  %s"
+
+#: ../functions.php:338
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Архив за год:  %s"
+
+#: ../functions.php:340
+msgid "Archives"
+msgstr "Архивы"
+
+#: ../functions.php:347
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: ../functions.php:350
+msgid "Gallery"
+msgstr "Галерея"
+
+#: ../functions.php:381
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../functions.php:388 ../image.php:27
+msgid "at"
+msgstr "в"
+
+#: ../functions.php:389
+msgid "says:"
+msgstr "сказал:"
+
+#: ../functions.php:392
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментарий ждет одобрения"
+
+#: ../header.php:42
+msgid "Menu"
+msgstr "Меню"
+
+#: ../image.php:49
+msgid "Previous Image"
+msgstr "Предыдущая картинка"
+
+#: ../image.php:55
+msgid "Next Image"
+msgstr "Следующая картинка"
+
+#: ../searchform.php:10
+msgid "Enter search keyword"
+msgstr "Введите поисковой запрос"
+
+#: ../slider.php:30
+msgid "Learn More"
+msgstr "Читать далее"
+
+#~ msgid "Powered by"
+#~ msgstr "Создано"
+
+#~ msgid "and"
+#~ msgstr "и"

@@ -5,4 +5,6 @@ wp-config.php
 .zsh_history
 .viminfo
 .gitconfig
-
+.htaccess
+em.php
+  

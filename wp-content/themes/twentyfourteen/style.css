@@ -1250,7 +1250,7 @@ a.post-thumbnail:hover {
 .entry-summary a,
 .page-content a,
 .comment-content a {
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 .entry-content a:hover,
@@ -4181,4 +4181,7 @@ a.post-thumbnail:hover {
 		font-size: 25pt;
 		line-height: 36px;
 	}
+}
+.site-title {
+	font-size: 1.7em;
 }
